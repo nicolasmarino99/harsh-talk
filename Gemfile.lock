@@ -144,6 +144,8 @@ GEM
     rake (13.0.6)
     reline (0.3.2)
       io-console (~> 0.5)
+    swagger-blocks (3.0.0)
+    swagger-ui_rails (0.1.7)
     thor (1.2.1)
     timeout (0.3.1)
     tzinfo (2.0.6)
@@ -162,6 +164,8 @@ DEPENDENCIES
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.2)
+  swagger-blocks (~> 3.0)
+  swagger-ui_rails (~> 0.1.7)
   tzinfo-data
 
 RUBY VERSION

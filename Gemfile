@@ -46,3 +46,6 @@ group :development do
   # gem "spring"
 end
 
+
+gem "swagger-blocks", "~> 3.0"
+gem "swagger-ui_rails", "~> 0.1.7"
